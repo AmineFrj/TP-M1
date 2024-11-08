@@ -5,3 +5,4 @@ import Flask
 
 ## Add new feature locally 
 print ("AMSD")
+print("bug fix")
